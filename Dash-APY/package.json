@@ -1,0 +1,17 @@
+{
+  "name": "dash-apy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@compound-finance/compound-js": "^0.2.13",
+    "bootstrap": "^5.0.1",
+    "create-next-app": "^11.0.0"
+  }
+}
